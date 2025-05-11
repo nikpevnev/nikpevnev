@@ -69,7 +69,7 @@ Communication, Stakeholder Management, Leadership, Problem Solving, Teamwork, St
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/nikolaypevnev/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikolaypevnev/)
 - 💻 Explore my projects & contributions here on **GitHub**
 
 ---
