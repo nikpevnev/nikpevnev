@@ -69,7 +69,7 @@ Communication, Stakeholder Management, Leadership, Problem Solving, Teamwork, St
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com) (add link here)
+- 💼 [LinkedIn](https://www.linkedin.com)
 - 💻 Explore my projects & contributions here on **GitHub**
 
 ---
