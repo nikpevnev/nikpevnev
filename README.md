@@ -55,12 +55,12 @@ Communication, Stakeholder Management, Leadership, Problem Solving, Teamwork, St
 - Boosted program KPIs by 20% using SIEM monitoring, API security, and encrypted backups
 - Designed security metrics, risk protocols, and automation for real-time alerts
 
-### 🔹 **Senior Associate – PwC, NYC** *(2020–2023)*
+### 🔹 **Senior Associate [Enterprise Risk, GRC] – PwC, NYC** *(2020–2023)*
 - Aligned cybersecurity controls to NIST, ISO, COBIT; improved compliance by 20%
 - Performed advanced traffic analysis with Wireshark, improving threat response by 25%
 - Enforced RBAC, SoD, MFA, PAM for secure access control and regulatory readiness
 
-### 🔹 **Associate (Promoted) – PwC, Philadelphia** *(2017–2020)*
+### 🔹 **Associate [Enterprise Risk, GRC] (Promoted) – PwC, Philadelphia** *(2017–2020)*
 - Spearheaded GDPR and SOX compliance projects
 - Triaged incidents with ServiceNow; reduced MTTR by 40%
 - Delivered Python-based automations saving 15% in cost and 100% on-time project success
